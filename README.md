@@ -1,6 +1,6 @@
 ### Zip Cracker
 
-<p align="center">python3 script to crack zip file password</p>
+<p >python3 script to crack zip file password</p>
 
 ### Screenshot
 
