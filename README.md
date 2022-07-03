@@ -1,11 +1,11 @@
 ### Zip Cracker
 
-<p >python3 script to crack zip file password</p>
+<p>python3 script to crack zip file password</p>
 
 ### Screenshot
 
 <p align="center">
-    <img src=".screenshot/screenshot.png">
+    <img src="./screenshot.png">
 </p>
 
 ### Installation
